@@ -2,3 +2,4 @@
 .jupyter
 .cache
 .ipython
+.ipynb_checkpoints/
